@@ -1,0 +1,115 @@
+
+#Navbar button{
+	
+	background-color:#FF9800;
+	border: none;
+}
+#div1{
+	background-image: linear-gradient(#0D423DE5,#0CC7B5E5);
+	color: white;
+}
+#div1 button{
+	background-color: #F44336;
+}
+.person{
+	width: 100%;
+	margin-left:5 %;
+}
+#div2{
+	background-color: #009688;
+	border-radius: 10px;
+	color: white;
+	margin-right: 2%;
+}
+#certifi div {
+		margin-top: 30px;
+}
+
+#certifi img {
+	height: 50%;
+}
+#certifi span{
+	width: 200px;
+	text-align: center;
+}
+#certifi div div{
+	margin-top: 3px;
+}
+#certifi{
+	background-color: 
+#F44336;
+margin-bottom: 70px;
+z-index: 10;
+}
+#img {
+	height: 90px;
+	width: 100%;
+	transform: translate(-12px,-70px);
+}
+.coach img{
+	width: 100%;
+}
+
+
+#grid span {
+	padding-left: 10px;
+}
+
+#grid div {
+	margin-top: 15%;
+
+}
+	#align_div div span{
+		background-color: #C4C4C4;
+	}
+
+	#align_div{
+	margin-left: 43%;
+	}
+#familler{
+	background-color:#F44336;
+	z-index: 11;
+	width: 98%;
+}
+#img1{
+	transform: translate(-2%,28%);
+
+}
+.lien{
+	text-align: center;
+}
+
+#logo{
+	background: #EEF9F8E5;
+}
+#logo div div {
+	height:85%;
+}
+
+.logo2{
+	transform: translateY(-5%);
+}
+.logo5{
+	transform: translate(-15%,-10%);
+}
+#footer{
+	background: #009688;
+
+}
+#carte img{
+	width: 100%;
+	height: 100%;
+}
+
+#carte div{
+	width: 100%;
+}
+
+@media screen and (max-width: 700px){
+
+	#grid div span{
+		font-size: 10px;
+
+	}
+}
+
